@@ -1,0 +1,54 @@
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\WpfWin32.csprojAssemblyReference.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\MainWindow.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\App.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\WpfWin32_MarkupCompile.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\WpfWin32_MarkupCompile.lref
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\bin\Debug\WpfWin32.exe.config
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\bin\Debug\WpfWin32.exe
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\bin\Debug\WpfWin32.pdb
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\MainWindow.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\WpfWin32.g.resources
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\WpfWin32.Properties.Resources.resources
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\WpfWin32.csproj.GenerateResource.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\WpfWin32.exe
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\WpfWin32\obj\Debug\WpfWin32.pdb
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\bin\Debug\WpfWin32.exe.config
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\bin\Debug\WpfWin32.exe
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\bin\Debug\WpfWin32.pdb
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\Autorization.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\MainWindow.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\App.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32_MarkupCompile.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32_MarkupCompile.lref
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\MainWindow.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\Autorization.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32.g.resources
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32.Properties.Resources.resources
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32.csproj.GenerateResource.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32.exe
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32.pdb
+G:\Win32e\Win32\obj\Debug\WpfWin32.csproj.AssemblyReference.cache
+G:\Win32e\Win32\obj\Debug\Autorization.g.cs
+G:\Win32e\Win32\obj\Debug\MainWindow.g.cs
+G:\Win32e\Win32\obj\Debug\App.g.cs
+G:\Win32e\Win32\obj\Debug\WpfWin32_MarkupCompile.cache
+G:\Win32e\Win32\obj\Debug\WpfWin32_MarkupCompile.lref
+G:\Win32e\Win32\obj\Debug\WpfWin32.exe
+G:\Win32e\Win32\obj\Debug\WpfWin32.pdb
+G:\Win32e\Win32\bin\Debug\WpfWin32.exe.config
+G:\Win32e\Win32\bin\Debug\WpfWin32.exe
+G:\Win32e\Win32\bin\Debug\WpfWin32.pdb
+G:\Win32e\Win32\obj\Debug\Autorization.baml
+G:\Win32e\Win32\obj\Debug\MainWindow.baml
+G:\Win32e\Win32\obj\Debug\WpfWin32.g.resources
+G:\Win32e\Win32\obj\Debug\WpfWin32.Properties.Resources.resources
+G:\Win32e\Win32\obj\Debug\WpfWin32.csproj.GenerateResource.cache
+G:\Win32e\Win32\obj\Debug\WpfWin32.csproj.CoreCompileInputs.cache
+G:\Win32e\Win32\bin\Debug\lain.gif
+G:\Win32e\Win32\obj\Debug\WpfWin32_Content.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\bin\Debug\lain.gif
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32.csprojAssemblyReference.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\Win32e\Win32\obj\Debug\WpfWin32_Content.g.cs
+G:\КП\Win32\Win32e\Win32\obj\Debug\WpfWin32.csproj.AssemblyReference.cache
+G:\КП\Win32\Win32e\Win32\obj\Debug\WpfWin32.exe
+G:\КП\Win32\Win32e\Win32\obj\Debug\WpfWin32.pdb

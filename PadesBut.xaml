@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="Win32.PadesBut"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Win32" Height="425" Width="800">
+    <Grid>
+        <Canvas x:Name="MCanvas" Background="#FF354935" Focusable="True" Grid.ColumnSpan="4" Margin="0,0,-0.4,-1" Grid.Row="2" Grid.Column="2" />
+        <StackPanel x:Name="Buttons" Margin="495,10,10,0" VerticalAlignment="Top" Height="369" >
+            <Button x:Name="NetworkBut" Height="38" FontFamily="SimSun" FontSize="14" Click="NetworkBut_Click">Network</Button>
+            <Button x:Name="ProccesorBut" Content="Proccesor"  Height="38" FontFamily="SimSun" FontSize="14" Click="ProccesorBut_Click"/>
+            <Button x:Name="MemoryBut"   Height="38"  FontFamily="SimSun" FontSize="14" Click="MemoryBut_Click">Memory</Button>
+            <Button x:Name="KeybBut"  Height="38" FontFamily="SimSun" FontSize="14" Click="KeybBut_Click">Keyboard</Button>
+            <Button x:Name="MotherBut" Height="38" FontFamily="SimSun" FontSize="14" Click="MotherBut_Click">Motherboard</Button>
+            <Button x:Name="MonitorBut"  Height="38" FontFamily="SimSun" FontSize="14" Click="MonitorBut_Click">Monitor</Button>
+            <Button x:Name="Clear" Height="38"  FontFamily="SimSun" FontSize="14" Click="Clear_Click">Clear</Button>
+        </StackPanel>
+        <StackPanel  Margin="0,10,340,-0.4" Background="LightYellow">
+            <ListBox x:Name="InfoList" Height="415" Background="Black" FontFamily="SimSun" FontSize="14" Foreground="White" SelectionChanged="InfoList_SelectionChanged"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

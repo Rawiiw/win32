@@ -1,0 +1,227 @@
+G:\КП\Win32\Win32e\Win32\obj\Debug\WpfWin32.exe
+G:\КП\Win32\Win32e\Win32\obj\Debug\WpfWin32.pdb
+G:\КП\Win32\Win32e\Win32\obj\Debug\Win32.csproj.ResolveComReference.cache
+G:\КП\Win32\Win32e\Win32\obj\Debug\Autorization.g.cs
+G:\КП\Win32\Win32e\Win32\obj\Debug\MainWindow.g.cs
+G:\КП\Win32\Win32e\Win32\obj\Debug\App.g.cs
+G:\КП\Win32\Win32e\Win32\obj\Debug\WpfWin32_Content.g.cs
+G:\КП\Win32\Win32e\Win32\obj\Debug\WpfWin32_MarkupCompile.cache
+G:\КП\Win32\Win32e\Win32\obj\Debug\WpfWin32_MarkupCompile.lref
+D:\Win32 — копия\obj\Debug\Win32.csprojAssemblyReference.cache
+D:\Win32 — копия\obj\Debug\Win32.csproj.ResolveComReference.cache
+D:\Win32 — копия\obj\Debug\Autorization.g.cs
+D:\Win32 — копия\obj\Debug\MainWindow.g.cs
+D:\Win32 — копия\obj\Debug\ProccesorInformation.g.cs
+D:\Win32 — копия\obj\Debug\App.g.cs
+D:\Win32 — копия\obj\Debug\WpfWin32_Content.g.cs
+D:\Win32 — копия\obj\Debug\WpfWin32_MarkupCompile.cache
+D:\Win32 — копия\obj\Debug\WpfWin32_MarkupCompile.lref
+D:\Win32 — копия\obj\Debug\WpfWin32.exe
+D:\Win32 — копия\obj\Debug\WpfWin32.pdb
+D:\Win32 — копия\bin\Debug\lain.gif
+D:\Win32 — копия\bin\Debug\WpfWin32.exe.config
+D:\Win32 — копия\bin\Debug\WpfWin32.exe
+D:\Win32 — копия\bin\Debug\WpfWin32.pdb
+D:\Win32 — копия\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Win32 — копия\bin\Debug\Newtonsoft.Json.dll
+D:\Win32 — копия\bin\Debug\System.Collections.Immutable.dll
+D:\Win32 — копия\bin\Debug\Newtonsoft.Json.pdb
+D:\Win32 — копия\bin\Debug\Newtonsoft.Json.xml
+D:\Win32 — копия\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Win32 — копия\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Win32 — копия\obj\Debug\Autorization.baml
+D:\Win32 — копия\obj\Debug\MainWindow.baml
+D:\Win32 — копия\obj\Debug\ProccesorInformation.baml
+D:\Win32 — копия\obj\Debug\WpfWin32.g.resources
+D:\Win32 — копия\obj\Debug\WpfWin32.Properties.Resources.resources
+D:\Win32 — копия\obj\Debug\Win32.csproj.GenerateResource.cache
+D:\Win32 — копия\obj\Debug\Win32.csproj.CopyComplete
+E:\Win32\bin\Debug\Win32.exe.config
+E:\Win32\bin\Debug\Win32.exe
+E:\Win32\bin\Debug\Win32.pdb
+E:\Win32\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\Win32\bin\Debug\Newtonsoft.Json.dll
+E:\Win32\bin\Debug\Newtonsoft.Json.xml
+E:\Win32\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\Win32\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\Win32\obj\Debug\Win32.csproj.ResolveComReference.cache
+E:\Win32\obj\Debug\MainWindow.g.cs
+E:\Win32\obj\Debug\App.g.cs
+E:\Win32\obj\Debug\Win32_MarkupCompile.cache
+E:\Win32\obj\Debug\Win32_MarkupCompile.lref
+E:\Win32\obj\Debug\MainWindow.baml
+E:\Win32\obj\Debug\Win32.g.resources
+E:\Win32\obj\Debug\Win32.Properties.Resources.resources
+E:\Win32\obj\Debug\Win32.csproj.GenerateResource.cache
+E:\Win32\obj\Debug\Win32.csproj.CoreCompileInputs.cache
+E:\Win32\obj\Debug\Win32.csproj.CopyComplete
+E:\Win32\obj\Debug\Win32.exe
+E:\Win32\obj\Debug\Win32.pdb
+E:\Win32\obj\Debug\loginpage.g.cs
+E:\Win32\obj\Debug\PadesBut.g.cs
+E:\Win32\obj\Debug\reginpage.g.cs
+E:\Win32\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Win32\obj\Debug\loginpage.baml
+E:\Win32\obj\Debug\PadesBut.baml
+E:\Win32\obj\Debug\reginpage.baml
+E:\Win32\obj\Debug\Autoriz.g.cs
+E:\Win32\obj\Debug\Autoriz.baml
+E:\Win32\obj\Debug\Win32.csproj.AssemblyReference.cache
+E:\Win32\obj\Debug\AdminWindow.g.cs
+E:\Win32\obj\Debug\AdminWindow.baml
+E:\Win32\bin\Debug\Win32.exe.manifest
+E:\Win32\bin\Debug\Win32.application
+E:\Win32\obj\Debug\Win32.exe.manifest
+E:\Win32\obj\Debug\Win32.application
+E:\Win32\bin\Debug\BouncyCastle.Crypto.dll
+E:\Win32\bin\Debug\Google.Protobuf.dll
+E:\Win32\bin\Debug\K4os.Compression.LZ4.dll
+E:\Win32\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Win32\bin\Debug\K4os.Hash.xxHash.dll
+E:\Win32\bin\Debug\MySql.Data.dll
+E:\Win32\bin\Debug\System.Buffers.dll
+E:\Win32\bin\Debug\System.Memory.dll
+E:\Win32\bin\Debug\System.Numerics.Vectors.dll
+E:\Win32\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Win32\bin\Debug\ZstdNet.dll
+E:\Win32\bin\Debug\BouncyCastle.Crypto.xml
+E:\Win32\bin\Debug\Google.Protobuf.pdb
+E:\Win32\bin\Debug\Google.Protobuf.xml
+E:\Win32\bin\Debug\K4os.Compression.LZ4.xml
+E:\Win32\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Win32\bin\Debug\K4os.Hash.xxHash.xml
+E:\Win32\bin\Debug\MySql.Data.xml
+E:\Win32\bin\Debug\System.Buffers.xml
+E:\Win32\bin\Debug\System.Memory.xml
+E:\Win32\bin\Debug\System.Numerics.Vectors.xml
+E:\Win32\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.csprojAssemblyReference.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.csproj.ResolveComReference.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Win32.exe.config
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Win32.exe.manifest
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Win32.application
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Win32.exe
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Win32.pdb
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Google.Protobuf.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\MySql.Data.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Buffers.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Collections.Immutable.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Memory.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\ZstdNet.dll
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Google.Protobuf.pdb
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Google.Protobuf.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\MySql.Data.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Buffers.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Memory.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\AdminWindow.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Autoriz.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\loginpage.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\MainWindow.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\PadesBut.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\reginpage.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Tables.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\App.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32_MarkupCompile.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32_MarkupCompile.lref
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\AdminWindow.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Autoriz.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\loginpage.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\MainWindow.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\PadesBut.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\reginpage.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Tables.baml
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.g.resources
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.Properties.Resources.resources
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.csproj.GenerateResource.cache
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.exe.manifest
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.application
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.csproj.CopyComplete
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.exe
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32.pdb
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\bin\Debug\iconlain.ico
+C:\Users\sk464\OneDrive\Рабочий стол\Win32\obj\Debug\Win32_Content.g.cs
+D:\Win32\bin\Debug\iconlain.ico
+D:\Win32\bin\Debug\Win32.exe.config
+D:\Win32\bin\Debug\Win32.exe.manifest
+D:\Win32\bin\Debug\Win32.application
+D:\Win32\bin\Debug\Win32.exe
+D:\Win32\bin\Debug\Win32.pdb
+D:\Win32\bin\Debug\BouncyCastle.Crypto.dll
+D:\Win32\bin\Debug\Google.Protobuf.dll
+D:\Win32\bin\Debug\K4os.Compression.LZ4.dll
+D:\Win32\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Win32\bin\Debug\K4os.Hash.xxHash.dll
+D:\Win32\bin\Debug\MySql.Data.dll
+D:\Win32\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Win32\bin\Debug\Newtonsoft.Json.dll
+D:\Win32\bin\Debug\System.Buffers.dll
+D:\Win32\bin\Debug\System.Collections.Immutable.dll
+D:\Win32\bin\Debug\System.Data.SqlClient.dll
+D:\Win32\bin\Debug\System.Memory.dll
+D:\Win32\bin\Debug\System.Numerics.Vectors.dll
+D:\Win32\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Win32\bin\Debug\ZstdNet.dll
+D:\Win32\bin\Debug\BouncyCastle.Crypto.xml
+D:\Win32\bin\Debug\Google.Protobuf.pdb
+D:\Win32\bin\Debug\Google.Protobuf.xml
+D:\Win32\bin\Debug\K4os.Compression.LZ4.xml
+D:\Win32\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Win32\bin\Debug\K4os.Hash.xxHash.xml
+D:\Win32\bin\Debug\MySql.Data.xml
+D:\Win32\bin\Debug\Newtonsoft.Json.xml
+D:\Win32\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Win32\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Win32\bin\Debug\System.Buffers.xml
+D:\Win32\bin\Debug\System.Data.SqlClient.xml
+D:\Win32\bin\Debug\System.Memory.xml
+D:\Win32\bin\Debug\System.Numerics.Vectors.xml
+D:\Win32\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Win32\obj\Debug\Win32.csproj.ResolveComReference.cache
+D:\Win32\obj\Debug\AdminWindow.g.cs
+D:\Win32\obj\Debug\Autoriz.g.cs
+D:\Win32\obj\Debug\loginpage.g.cs
+D:\Win32\obj\Debug\MainWindow.g.cs
+D:\Win32\obj\Debug\PadesBut.g.cs
+D:\Win32\obj\Debug\reginpage.g.cs
+D:\Win32\obj\Debug\Tables.g.cs
+D:\Win32\obj\Debug\App.g.cs
+D:\Win32\obj\Debug\Win32_Content.g.cs
+D:\Win32\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Win32\obj\Debug\Win32_MarkupCompile.cache
+D:\Win32\obj\Debug\Win32_MarkupCompile.lref
+D:\Win32\obj\Debug\AdminWindow.baml
+D:\Win32\obj\Debug\Autoriz.baml
+D:\Win32\obj\Debug\loginpage.baml
+D:\Win32\obj\Debug\MainWindow.baml
+D:\Win32\obj\Debug\PadesBut.baml
+D:\Win32\obj\Debug\reginpage.baml
+D:\Win32\obj\Debug\Tables.baml
+D:\Win32\obj\Debug\Win32.g.resources
+D:\Win32\obj\Debug\Win32.Properties.Resources.resources
+D:\Win32\obj\Debug\Win32.csproj.GenerateResource.cache
+D:\Win32\obj\Debug\Win32.exe.manifest
+D:\Win32\obj\Debug\Win32.application
+D:\Win32\obj\Debug\Win32.csproj.CopyComplete
+D:\Win32\obj\Debug\Win32.exe
+D:\Win32\obj\Debug\Win32.pdb
+D:\Win32\obj\Debug\Win32.csprojAssemblyReference.cache
